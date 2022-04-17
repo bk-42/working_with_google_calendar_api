@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/bk-42/working_with_google_calendar_api/issues"
   },
-  "homepage": "https://github.com/bk-42/working_with_google_calendar_api#readme"
+  "homepage": "https://github.com/bk-42/working_with_google_calendar_api#readme",
+  "dependencies": {
+    "firebase": "^9.6.11"
+  }
 }

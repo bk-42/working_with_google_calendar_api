@@ -9,7 +9,30 @@ Done:
 - NodeJS project initialized
 - GitHub repo is created and connected to local project
   Name: working_with_google_calendar_api 
+- Remembered that I should use React
+- Created React App 
+  Name: 380-standalone_project_main
+- Deleted these from initial NodeJS project created earlier:
+  package.json, package-lock.json, node_modules
+- Reinstalled Firebase module
+- Logged in into firebase with Dev account
+
 
 To-do:
 
-- Initialize Firebase and begin using the SDKs for the products you’d like to use
+ - Create a login page with Google
+ - User page with Simple Info
+
+
+
+
+
+
+
+Problems and solutions:
+
+- PowerShell says "execution of scripts is disabled on this system."
+  Used one-time policy bypass:
+  https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system
+
+- 
